@@ -20,6 +20,7 @@
 12. ZipUtils 压缩工具方法
 13. CacheUtils 使用File存储cache工具类
 14. SharePreferenceUtils SharePreference工具类
+15. Test
 
 ## 1 BitmapUtils
 
